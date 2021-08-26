@@ -201,7 +201,7 @@ What is the difference between a pull, and an upstream pull?
 
 What part of these instructions was unclear or incomplete?
 
- - Answer: 
+ - Answer: None
 
 Type down any class notes below this sentence:
 
