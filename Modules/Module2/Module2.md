@@ -139,15 +139,15 @@ What does "cd" stand for?
 
 Did you get stuck at any point or become confused with your console? (yes/no) If so, what happened? How did you solve it?
 
- - Answer: 
+ - Answer: Yes, I didn't have python installed. I just installed it and it worked just fine.
 
 Did you consider searching google for other commands to run? What did you try? 
 
- - Answer:
+ - Answer: No
 
 What would you like to program? 
 
- - Answer:
+ - Answer: A social website
 
 Type down any class notes below this sentence:
 
