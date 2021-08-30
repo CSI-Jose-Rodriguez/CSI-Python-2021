@@ -1,0 +1,7 @@
+print("JJJJJ   $$$   ****    &&& ")
+print("  J    $   $  |   |  &   &")
+print("  J    $      |   |  &    ")
+print("  J    $      ****   &    ")
+print("J J    $      ||     & &&&")
+print("J J    $   $  | |    &   &")
+print("JJJ     $$$   |  |    &&& ")
