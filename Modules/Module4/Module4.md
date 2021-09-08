@@ -1,4 +1,4 @@
-<div style="text-align:center">
+bacon<div style="text-align:center">
         <img    src="https://www.techrepublic.com/a/hub/i/r/2019/09/13/1691e9ad-4a07-4cb0-8799-ba22c6dd2e15/resize/1200x/53d0d8dd9212718ef9636ecb460dcee2/istock-1156903535.jpg"
                 title="Python" 
                 width="40%" 
@@ -135,14 +135,14 @@ Evaluate the following code. Is the code written correctly? What would be the co
         print('This message has a syntax error!")
         print(Churrigueresco)
 
- - Answer:
+ - Answer: The first one has a ' then a " so it wouldn't work put the same symbol on both sides, the second one doesn't have " or ' put, one or the other in both sides.
 
 Evaluate the following code. Is the code written correctly? What would be the correct code?
         someNumber=360
         print(' The Number is someNumber ')
 Expected:  The Number is 360
 
- - Answer:
+ - Answer: No
 
 Define a function that takes 2 or more string parameters and prints a single line using them as part of a functional string. The function may do anything you chose but the function name and parameter names must be representative of what they are.
 
@@ -154,7 +154,7 @@ Refer to this documentation webpage and google for the exercises below:
 https://www.w3schools.com/python/python_ref_string.asp
 
 
-How do you find the length of a string?
+
 Which code returns the length of the string s0:
 
 s0 = "What is my length? Store it as a number in a variable."
