@@ -135,18 +135,24 @@ Evaluate the following code. Is the code written correctly? What would be the co
         print('This message has a syntax error!")
         print(Churrigueresco)
 
- - Answer: The first one has a ' then a " so it wouldn't work put the same symbol on both sides, the second one doesn't have " or ' put, one or the other in both sides.
+ - Answer: The first one has a ' then a " so it wouldn't work, put the same symbol on both sides, the second one doesn't have " or ' put, one or the other in both sides.
 
 Evaluate the following code. Is the code written correctly? What would be the correct code?
         someNumber=360
         print(' The Number is someNumber ')
 Expected:  The Number is 360
 
- - Answer: No
+ - Answer: No, 
+someNumber: int = 360
+print(f"The number is {someNumber}")
 
 Define a function that takes 2 or more string parameters and prints a single line using them as part of a functional string. The function may do anything you chose but the function name and parameter names must be representative of what they are.
 
- - Answer:
+ - Answer: 
+myName:str = "Jose Rodriguez"
+myAge:int = 15
+myString = f"Hi {myName}! How old are you? Oh you are {myAge}."
+print(myString)
   
 
 
@@ -160,6 +166,9 @@ Which code returns the length of the string s0:
 s0 = "What is my length? Store it as a number in a variable."
 
  - Answer:
+s0 = "What is my length? Store it as a number in a variable."
+ss0 = len(s0)
+print(ss0)
 
 How do you create a substring in python?
 Create a substring of s1 containing only my name. Store it in a variable called ss1.
@@ -168,10 +177,15 @@ https://www.freecodecamp.org/news/how-to-substring-a-string-in-python/
 s1 = "Hello Student! My name is Carlos Jose Cobián. I enjoy coding and video games!"
 
  - Answer: ss1 =
+s1 = "Hello Student! My name is Carlos Jose Cobián. I enjoy coding and video games!"
+ss1 = (s1[26:44])
+print(ss1)
 
 Capitalize every letter of ss1 using a function. Store it in a variable called SS1.
 
  - Answer: SS1 =
+SS1 = ss1.upper()
+print(SS1)
 
 
 This last section is not worth any points, but is worth looking into. It is good string manipulation practice and contains exercises that you may see in a pop quiz! 
@@ -179,7 +193,6 @@ https://codingbat.com/python/String-1
 
 
 Type down any class notes below this sentence:
-
 
 
 Lackluster responses may result in point deductions.
