@@ -71,9 +71,9 @@ print(f"Computer selected: {computerChoice}")
 Give a python example for each logic operator in the module image.
 
  - Answers:
-   - OR:
-   - AND: 
-   - NOT: 
+   - OR: (2+2 == 4) or 1 > 9 #true
+   - AND: (9-7 == 6) and 1 !=3 #false
+   - NOT: not(7 * 7 == 49) #false
 
 
 Type down any class notes below this sentence:
