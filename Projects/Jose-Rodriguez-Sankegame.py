@@ -3,7 +3,7 @@ import pygame
 pygame.init() # inicia todos los médules de PuBame
 
 yellow = (255, 255, 102) #Score
-black = (8, 8, 0) #pantalla
+black = (0, 0, 0) #pantalla
 red = (213, 50, 80) #game over
 green = (0, 255, 0) #food
 blue = (50, 153, 213) #snake
